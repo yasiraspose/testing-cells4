@@ -8,3 +8,4 @@ Comments and Notes
 
 - Remove Threaded Comments using Aspose.Cells in a workbook loaded in XLSX format..cs
 - Remove Threaded Comments in a workbook loaded in XLSX format..cs
+- Remove Threaded Comments with Excel in a workbook loaded in XLSX format..cs
