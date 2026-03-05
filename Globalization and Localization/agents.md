@@ -7,3 +7,4 @@ Globalization and Localization
 ## Examples
 
 - Localize_spreadsheet_by_implementing_Cell.FormulaLocal_simil.cs
+- Localize_spreadsheet_by_running_sample_code_for_Cell.Formula.cs
